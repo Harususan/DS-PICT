@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633579241 source:c:\users\admin\desktop\ds pict\array_functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
